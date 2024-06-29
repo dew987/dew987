@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align= "right" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt= "coding" width= "400">
 
-- 🌱 I’m currently learning **Deep Learning & Neural Networks and Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Coding, DSA**
 
